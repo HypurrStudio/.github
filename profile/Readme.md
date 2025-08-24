@@ -44,4 +44,4 @@ Stay tuned as we roll out more tools under the Hypurr umbrella.
 
 Follow us to stay updated with the latest news and updates:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/hypurrstudio)
