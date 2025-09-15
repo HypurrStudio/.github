@@ -7,7 +7,7 @@
 <h1 align="center">Hypurr Studio</h1>
 
 <p align="center">
-  <i>The umbrella company building essential tools for the HyperLiquid and HyperVM ecosystem.</i>
+  <i>The the ecosystem studio that builds essential tools for the HyperLiquid and HyperVM ecosystems.</i>
 </p>
 
 <h4 align="center">
@@ -26,7 +26,7 @@
 
 #### What is Hypurr Studio?
 
-Hypurr Studio is the umbrella company for all the essential tools being built around the **HyperLiquid** and **HyperVM** ecosystem.  
+Hypurr Studio is the ecosystem studio that builds essential tools for the **HyperLiquid** and **HyperVM** ecosystems.  
 Our goal is to empower developers, traders, and communities with cutting-edge infrastructure, seamless onboarding, and powerful dApps.
 
 🌟 The first live product is **[Illusio](https://illusio.vercel.app/)** – a transaction simulator and bundle execution engine for HyperLiquid, designed to give builders deep insights and safer on-chain development.
