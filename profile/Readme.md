@@ -7,7 +7,7 @@
 <h1 align="center">Hypurr Studio</h1>
 
 <p align="center">
-  <i>The the ecosystem studio that builds essential tools for the HyperLiquid and HyperVM ecosystems.</i>
+  <i>The ecosystem studio that builds essential tools for the HyperLiquid and HyperVM ecosystems.</i>
 </p>
 
 <h4 align="center">
